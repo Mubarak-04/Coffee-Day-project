@@ -1,4 +1,4 @@
-# ☕ Coffee Day Sales Analysis  
+# ☕ Coffee Day Analysis  
 
 ![Company Logo](https://github.com/Mubarak-04/Coffee-Day-project/blob/main/coffee_day_tit.png)
 https://github.com/Mubarak-04/Coffee-Day-project/blob/main/coffee_day_tit.png
