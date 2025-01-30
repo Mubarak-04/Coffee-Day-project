@@ -1,7 +1,7 @@
 # ☕ Coffee Day Sales Analysis  
 
-![Company Logo](https://github.com/Mubarak-04/Coffee-Day-project /main/coffee_day_tit.png)
-
+![Company Logo](https://github.com/Mubarak-04/Coffee-Day-project/blob/main/coffee_day_tit.png)
+https://github.com/Mubarak-04/Coffee-Day-project/blob/main/coffee_day_tit.png
 ## 📌 Objective  
 The purpose of this project is to analyze the sales data of *Coffee Day, an online coffee retailer, and identify the **top three cities* in India for opening new coffee shop locations.  
 This analysis is based on *sales performance, customer demand, and market potential*.  
